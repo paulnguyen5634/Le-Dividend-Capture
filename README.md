@@ -1,2 +1,2 @@
 # Le-Dividend-Capture
-An attempt to make a dividend capture strategy algorithm which only took in the input for how many days before the dividend to buy a stock before selling it. This took into account the ex-dividend day as to reap in the dividend 
+An attempt to make a dividend capture strategy algorithm which only took in the input for how many days before the dividend to buy a stock before selling it. This took into account the ex-dividend day as to reap in the dividend. (Will potentially come back to this as it will be interesting to see if i can use ML to find the sweet spot for the typical dividned capture strategies.)
